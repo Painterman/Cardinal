@@ -4,6 +4,7 @@
  This is still in the early stages, pending to order and build one for myself.
  
  Things to do:
+ 
     - More versions: support for diferent encoders and for less keys.
     - Add a nice logo and silkscreen to the pcb.
     - Maybe a reduced choc spacing board.
