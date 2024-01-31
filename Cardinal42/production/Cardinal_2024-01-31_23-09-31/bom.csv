@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_13, _12, _11, _10, _9, _8, _7, _6, _5, _4, _3, _2, ",37a111ce-96c9-42a8-b0d1-cee97aba29f6,13,,
+"5Way1_2, 5Way1",SKRHA-boss_mod_doble,2,SKRHA,
+"BT1_2, BT1",JST_ZH_2PIN_1.5MM,2,Battery_Cell,
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D2, D3, D4, D5, D6, D7, D8, D9, DT-1, DT1, DT2, DT3, DT4, DT5way1",Diode_SOD-123_mod,24,Diode,
+OLED+!,OLED_I2C_128x32+NiceView,1,OLED_I2C,
+ON/OFF1,switch-MSK-12C02-smd,1,SW_SPDT,
+Reset1,SW_SPST_B3U-1000P_mod,1,Reset,
+"SW1, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, Thumb-1, Thumb1, Thumb2",Hotswap_Choc_V1_1.00u_mod,21,Switch,
+Thumb3,RollerEncoder_Panasonic_EVQWGD001_mod,1,EVQWGD001,
+Thumb4,RollerEncoder_Panasonic_EVQWGD001_mod,1,EC11,
+U1,ProMicro_jumpers,1,Nice_Nano_V2,
