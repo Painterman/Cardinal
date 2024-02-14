@@ -1,5 +1,5 @@
 # Cardinal
-![The keyboard on cactus](Pictures/MVIMG_20240205_121454.jpg)
+![The keyboard](Pictures/MVIMG_20240205_121454.jpg)
  Introducing: Cardinal, a split, fully wireless, low profile with choc spacing and hotswap sockets with optional encoders, screens and 5 position switches.
 
  As this update this should be in a working state and you can find the Kicad proyect and gerbers ready to order.
@@ -52,6 +52,15 @@ Use this as a reference, build guide is in the works.
 Most parts can be found on aliexpress easily, and i have seem a few offers to manufacture pcbs from vendors there, i have not tried any. My pcbs were ordered from [PCBgogo](https://www.pcbgogo.com/) and so far im happy with the cuality of the service and pcbs, im not afiliated with then but for now i can recomend then. Other popular option for manufacturing on the cheap is [JLCPCB](https://jlcpcb.com/) and can also recomend then, probably a better option overall due to shipping and EU import duties, prices were similar.
 
 In terns of tenting options, the pcbs have 2 holes to support [Tenting Puck](https://splitkb.com/products/tenting-puck), i have not tested then as i don´t have any, but should fit. You could go with a case and cheap magnetic rings.
+
+# Bling
+
+Some photos, you can find more in the Pictures folder
+![logo](Pictures/MVIMG_20240214_121357.jpg)
+![cactus](Pictures/MVIMG_20240205_121725.jpg)
+![built](Pictures/MVIMG_20240214_121055.jpg)
+![vs cradio](Pictures/MVIMG_20240214_121200.jpg)
+
 
 # Inspirations and acknowledgments
 
