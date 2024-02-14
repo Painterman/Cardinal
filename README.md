@@ -1,5 +1,5 @@
 # Cardinal
-(Pictures/MVIMG_20240205_121454.jpg)
+![The keyboard on cactus](Pictures/MVIMG_20240205_121454.jpg)
  Introducing: Cardinal, a split, fully wireless, low profile with choc spacing and hotswap sockets with optional encoders, screens and 5 position switches.
 
  As this update this should be in a working state and you can find the Kicad proyect and gerbers ready to order.
