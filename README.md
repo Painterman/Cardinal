@@ -38,7 +38,7 @@ Use this as a reference, you can find a more detailed build guide on the wiki.
 | Choc hotswap sockets | Same as switches | 1 per key|
 | 1N4148WS SOD123 diodes  | 48 or less | 1 per key, 2 per half for encoders and 2 for 5 way switch | 
 | EVQWGD001 rotary encoders | 4 or less | I’m using only 2, but the board supports up to 4(2 per side)|
-| 5-way switches SKRHA family   | 2 | SKRHACE010 are rated for more uses, I’m using SKRHABE010, rated for 1/5 the cycles and less expensive, here is the dataset : [SKRHA](https://www.mouser.es/datasheet/2/15/SKRH-1370966.pdf)|
+| 5-way switches SKRHA family   | 2 | SKRHADE010 are rated for more uses, I’m using SKRHABE010, rated for 1/5 the cycles and less expensive, here is the dataset : [SKRHA](https://www.mouser.es/datasheet/2/15/SKRH-1370966.pdf)|
 | On/Off switch MSK-12C02 | 1 | Off to the right, on to the left, same on both halves |
 | Lipo battery’s | 2 | You can use any you want, i like the 301230 size so it fits under the Pro Micro, but a bigger battery and a case it’s also a great option |
 | Battery connectors | 2 | (optional) You can use any connector you like/have as long as the pitch its 1,5 mm, I’m using JST ZH|
