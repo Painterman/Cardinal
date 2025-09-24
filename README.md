@@ -59,6 +59,12 @@ The case design is really basic and also used it to try different cad programs s
 
 For printing the case, use any matterial you like and least 2 outer walls, so they end up solid, should print fine in all printers.
 
+# Firmware
+
+As this is a fully wireless build and intended to be used with [nice!nanos](), this board is intended to be used with [zmk]().
+You can check my [main configuration](https://github.com/Painterman/zmk-config-cardinal) of the keyboard and in case you want to build your own firmware you could clone my main or use the [zmk module](https://github.com/Painterman/zmk-keyboard-cardinal) provided.
+Both cases are [zmk studio](https://zmk.dev/docs/features/studio) and [keymap editor](https://github.com/nickcoutsos/keymap-editor) ready, for ease of use.
+
 # Bling
 
 Some photos, you can find more in the Pictures folder
